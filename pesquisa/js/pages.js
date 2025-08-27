@@ -289,7 +289,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://go.nitropagamentos.com/z0mzi46kaq';
+    window.location.href = 'https://go.nitropagamentos.com/hvv2plnskq';
   });
 
 }
